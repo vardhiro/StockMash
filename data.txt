@@ -1,0 +1,101 @@
+RELIANCE . Reliance Industries Limited . -14.5375
+TCS . Tata Consultancy Services Limited . 3.03
+HDFCBANK . HDFC Bank Limited . -1.826
+ICICIBANK . ICICI Bank Limited . 16.4625
+INFY . Infosys Limited . 2.4625
+HINDUNILVR . Hindustan Unilever Limited . -2.4625
+SBIN . State Bank of India . 3.82500038462
+BHARTIARTL . Bharti Airtel Limited . -17.8583333333
+KOTAKBANK . Kotak Mahindra Bank Limited . 0
+ITC . ITC Limited . 19.4625
+LT . Larsen Toubro Limited . 15.97
+AXISBANK . Axis Bank Limited . 0
+BAJFINANCE . Bajaj Finance Limited . -2.4625
+HDFC . Housing Development Finance Corporation Limited . -1.826
+ADANIGREEN . Adani Green Energy Limited . 0
+ADANIENT . Adani Enterprises Limited . -7.82500038462
+WIPRO . Wipro Limited . 0
+MARUTI . Maruti Suzuki India Limited . 1.826
+TITAN . Titan Company Limited . 4.4625
+ULTRACEMCO . UltraTech Cement Limited . 0
+ADANIPORTS . Adani Ports and Special Economic Zone Limited . 0
+ASIANPAINT . Asian Paints Limited . -5.4625
+SUNPHARMA . Sun Pharmaceutical Industries Limited . 0
+HCLTECH . HCL Technologies Limited . -4.4625
+POWERGRID . Power Grid Corporation of India Limited . 2.4625
+NTPC . NTPC Limited . 0
+TECHM . Tech Mahindra Limited . 3.82500038462
+INDUSINDBK . IndusInd Bank Limited . -2.4625
+BAJAJFINSV . Bajaj Finserv Limited . -17.8583333333
+ONGC . Oil and Natural Gas Corporation Limited . 4.4625
+BPCL . Bharat Petroleum Corporation Limited . -2.4625
+COALINDIA . Coal India Limited . 0
+DABUR . Dabur India Limited . -17.8583333333
+DIVISLAB . Divi's Laboratories Limited . 0
+DRREDDY . Dr . -3.82500038462
+EICHERMOT . Eicher Motors Limited . 0
+GAIL . GAIL (India) Limited . 7.4625
+GRASIM . Grasim Industries Limited . -3.4625
+HINDALCO . Hindalco Industries Limited . 0
+IOC . Indian Oil Corporation Limited . -2.4625
+JSWSTEEL . JSW Steel Limited . -2.4625
+NESTLEIND . Nestle India Limited . 0
+PIDILITIND . Pidilite Industries Limited . 0
+SHREECEM . Shree Cement Limited . -2.4625
+TATACONSUM . Tata Consumer Products Limited . 0
+TATAMOTORS . Tata Motors Limited . 3.82500038462
+TATASTEEL . Tata Steel Limited . 3.03
+UPL . UPL Limited . 0
+VEDL . Vedanta Limited . 0
+ZEEL . Zee Entertainment Enterprises Limited . 0
+ACC . ACC Limited . 0.4625
+AMBUJACEM . Ambuja Cements Limited . 20.03
+AUROPHARMA . Aurobindo Pharma Limited . 2.4625
+BANDHANBNK . Bandhan Bank Limited . -3.03
+BERGEPAINT . Berger Paints India Limited . 2.4625
+BIOCON . Biocon Limited . -2.4625
+BOSCHLTD . Bosch Limited . 0
+BRITANNIA . Britannia Industries Limited . -0.4625
+CANBK . Canara Bank Limited . -7.4625
+CIPLA . Cipla Limited . 0
+CONCOR . Container Corporation of India Limited . 0
+CROMPTON . Crompton Greaves Consumer Electricals Limited . 0.4625
+ESCORTS . Escorts Kubota Limited . 0
+EXIDEIND . Exide Industries Limited . -2.4625
+GODREJCP . Godrej Consumer Products Limited . 1.4625
+GODREJPROP . Godrej Properties Limited . 2.4625
+HAVELLS . Havells India Limited . 0
+HEROMOTOCO . Hero MotoCorp Limited . 2.4625
+ICICIPRULI . ICICI Prudential Life Insurance Company Limited . 0
+IDFCFIRSTB . IDFC First Bank Limited . 2.5375
+IGL . Indraprastha Gas Limited . 2.4625
+IRCTC . Indian Railway Catering and Tourism Corporation Limited . -2.4625
+LUPIN . Lupin Limited . 3.826
+MANAPPURAM . Manappuram Finance Limited . 0
+MFSL . Max Financial Services Limited . 2.4625
+MUTHOOTFIN . Muthoot Finance Limited . -2.4625
+PAGEIND . Page Industries Limited . 0
+PEL . Piramal Enterprises Limited . 0
+PNB . Punjab National Bank . 4.826
+PVRINOX . PVR INOX Limited . 0
+RECLTD . REC Limited . 2.4625
+SAIL . Steel Authority of India Limited . 0.4625
+SRF . SRF Limited . 0
+TATACHEM . Tata Chemicals Limited . 2.4625
+TATAPOWER . Tata Power Company Limited . 2.4625
+TORNTPHARM . Torrent Pharmaceuticals Limited . 0
+TORNTPOWER . Torrent Power Limited . 0
+TVSMOTOR . TVS Motor Company Limited . 0
+UNIONBANK . Union Bank of India . -1.03
+VOLTAS . Voltas Limited . 0.174
+ZOMATO . Zomato Limited . -3.82500038462
+NYKAA . FSN E . -4.4625
+DELHIVERY . Delhivery Limited . -2.4625
+PAYTM . One 97 Communications Limited (Paytm) . -7.03
+BHEL . Bharat Heavy Electricals Limited . -4.4625
+IDBI . IDBI Bank Limited . 2.4625
+NHPC . NHPC Limited . 3.03
+AMARAJABAT . Amara Raja Batteries Limited . 2.4625
+INDHOTEL . Indian Hotels Company Limited . 1.826
+MINDTREE . Mindtree Limited . -1.826
+LTIM . Larsen Toubro Infotech Limited . 0
